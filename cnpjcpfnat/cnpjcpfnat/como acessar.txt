@@ -1,0 +1,3 @@
+ http://localhost:8080/api/CPF/12345678909
+http://localhost:8080/api/CNPJ/11222333000181
+Se o CPF ou CNPJ for válido, retorna true; caso contrário, false.
